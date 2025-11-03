@@ -1,0 +1,167 @@
+[
+    {
+      "id": "1",
+      "content": "Continuing Qualification Training (CQ): A data informed, systematically designed, and statistically validated program which features CQ cycles divided into evaluation periods. CQ may include elements which occur often or repeatedly.",
+      "acronym": "CQ"
+    },
+    {
+      "id": "2",
+      "content": "Continuous Duty Overnight (CDO): Flying (informally known within the airline industry as short-backs, high-speeds, naps, or stand-ups) consisting of duty periods operating during 0200-0400 domicile time where there is a scheduled break of two (2) or more hours between flight or deadhead segments.",
+      "acronym": "CDO"
+    },
+    {
+      "id": "3",
+      "content": "Crew Management System (CMS): The electronic system used to manage Pilots’ work rules and pay.",
+      "acronym": "CMS"
+    },
+    {
+      "id": "4",
+      "content": "Crew Web Access (CWA): The interface used by Pilots to interact with the CMS.",
+      "acronym": "CWA"
+    },
+    {
+      "id": "5",
+      "content": "Duties to Cover (DTC): The metric used in ELITT representing the number of duty periods in a pairing beginning on an associated day.",
+      "acronym": "DTC"
+    },
+    {
+      "id": "6",
+      "content": "Electronic Flight Bag (EFB): Company-approved electronic device with applications that support paperless operations.",
+      "acronym": "EFB"
+    },
+    {
+      "id": "7",
+      "content": "Enhanced Line Improvement Trip Trade (ELITT): The process in the CMS by which a Pilot conducts transactions of pairings or reserve blocks on his line with open time pairings or reserve blocks.",
+      "acronym": "ELITT"
+    },
+    {
+      "id": "8",
+      "content": "ETOPS Bid Group (EBG): A category of Pilots designated for ETOPS qualification and bidding ETOPS bid lines. An EBG may consist of part of or all of a domicile. An EBG has a separate vacancy and monthly bid. In an ETOPS domicile, any references to EBG will apply to the entire domicile.",
+      "acronym": "EBG"
+    },
+    {
+      "id": "9",
+      "content": "Flag of Convenience (FOC) Carrier: A carrier or affiliate of a carrier, including any individual asset thereof, registered under the laws of a country, which is not the home country of the carrier’s owner, in order to avoid financial charges or restrictive regulations in the owner’s country.",
+      "acronym": "FOC"
+    },
+    {
+      "id": "10",
+      "content": "Flight Duty Period (FDP): A period that begins when a Pilot is required to report for duty with the intention of conducting a flight, a series of flights, or positioning or ferrying flights, and ends when the aircraft is parked after the last flight and there is no intention for further aircraft movement by the same Pilot. A flight duty period includes the duties performed by the Pilot on behalf of the certificate holder that occur before a flight segment or between flight segments without a required intervening rest period. Examples of tasks that are part of the flight duty period include deadhead transportation, training conducted in an aircraft or flight simulator, and airport/standby reserve, if the above tasks occur before a flight segment or between flight segments without an intervening required rest period.",
+      "acronym": "FDP"
+    },
+    {
+      "id": "11",
+      "content": "Junior Assigned (JA) (Event): Any involuntary assignment or reassignment that results in a duty period on a scheduled domicile day off.",
+      "acronym": "JA"
+    },
+    {
+      "id": "12",
+      "content": "Last Resort Flying (LRF): A process used to cover uncovered flying originating at non-domicile cities when there is insufficient time to cover the flying from a domicile using the reserve or open time systems. LRF is awarded at premium pay.",
+      "acronym": "LRF"
+    },
+    {
+      "id": "13",
+      "content": "Non-Continuing Qualification Training (Non-CQ): Non-CQ events will include ground or simulator training that are not requirements of the continuing qualification curriculum.",
+      "acronym": "Non-CQ"
+    },
+    {
+      "id": "14",
+      "content": "Open Time (OT) System/Process: The method used to award uncovered pairings and training events. When something is “returned to the open time process” it is put back into the OT pool and will continue through the OT process that resulted in an award and then all remaining OT processes, if necessary.",
+      "acronym": "OT"
+    },
+    {
+      "id": "15",
+      "content": "Passengers Daily Each Way (PDEW): Number of daily passengers each way between the origin and the destination. This is calculated from an average between Sabre Global Demand and PaxIS. If one (1) or both are unavailable, the Company and the Association will mutually agree on alternate vendor(s) to calculate the average on a per day of offered service basis in the market research phase. Once service begins, the Company agrees to share all ticket data with the Association on these routes.",
+      "acronym": "PDEW"
+    },
+    {
+      "id": "16",
+      "content": "Removed for Training (RT) Pull: The removal of a pairing or a portion thereof from a Pilot’s schedule for the training of another Pilot.",
+      "acronym": "RT"
+    },
+    {
+      "id": "17",
+      "content": "Reserve Availability Period (RAP): The period of time when a Reserve Pilot must be available for notification and assignments.",
+      "acronym": "RAP"
+    },
+    {
+      "id": "18",
+      "content": "Scheduled Sub Service (SSS): Flights operated by Southwest Airlines on behalf of a tour operator that sells a package product on an entire aircraft. Scheduled Sub Service excludes codeshare, group bookings, and charter service.",
+      "acronym": "SSS"
+    },
+    {
+      "id": "19",
+      "content": "Supervised Airport Qualification (SAQ): A Pilot qualification required to conduct operations at a designated airport as determined by the FAA, FOM, or IFOM.",
+      "acronym": "SAQ"
+    },
+    {
+      "id": "20",
+      "content": "State-Owned Enterprise (SOE): A carrier that is fully owned or controlled or partially owned or controlled by a foreign government.",
+      "acronym": "SOE"
+    },
+    {
+      "id": "21",
+      "content": "Trip for Pay (TFP): The unit of compensation received.",
+      "acronym": "TFP"
+    },
+    {
+      "id": "22",
+      "content": "Leg Change Override (LCO)",
+      "acronym": "LCO"
+    },
+    {
+      "id": "23",
+      "content": "Late Return Override (LRO)",
+      "acronym": "LRO"
+    },
+    {
+      "id": "24",
+      "content": "Ground Time Override (GTO)",
+      "acronym": "GTO"
+    },
+    {
+      "id": "25",
+      "content": "Reserve Release Override (RRO)",
+      "acronym": "RRO"
+    },
+    {
+      "id": "26",
+      "content": "Long Duty Override (LDO)",
+      "acronym": "LDO"
+    },
+    {
+      "id": "27",
+      "content": "Duty Hour Ratio (DHR)",
+      "acronym": "DHR"
+    },
+    {
+      "id": "28",
+      "content": "Duty Period Minimum (DPM)",
+      "acronym": "DPM"
+    },
+    {
+      "id": "29",
+      "content": "Trip Trade Giveaway (TTGA)",
+      "acronym": "TTGA"
+    },
+    {
+      "id": "30",
+      "content": "Trip Trade Giveaway (TT/GA)",
+      "acronym": "TT/GA"
+    },
+    {
+      "id": "31",
+      "content": "Deadhead (DH)",
+      "acronym": "DH"
+    },
+    {
+      "id": "32",
+      "content": "Trip Hour Ratio (THR)",
+      "acronym": "THR"
+    },
+    {
+      "id": "33",
+      "content": "Average Daily Guarantee (ADG)",
+      "acronym": "ADG"
+    }
+  ]
